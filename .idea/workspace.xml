@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d974b2da-0d8b-4392-a635-bc9474af49bf" name="Changes" comment="Learned the basics of XML Injection" />
+    <list default="true" id="d974b2da-0d8b-4392-a635-bc9474af49bf" name="Changes" comment="Learned the basics of XML Injection">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo/BeanCofig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Nurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Nurse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Demo/Nurse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Nurse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -25,16 +37,18 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2iB2DXlFAqKSexQNGB6HkCWnqLh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "V:/Krishna/Coding/Java/IntelliJ/SpringDemo",
@@ -71,7 +85,7 @@
       <workItem from="1719048457663" duration="1223000" />
       <workItem from="1719049712993" duration="875000" />
       <workItem from="1719050611234" duration="181000" />
-      <workItem from="1719050805229" duration="570000" />
+      <workItem from="1719050805229" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="Learned the basics of XML Injection">
       <option name="closed" value="true" />
@@ -97,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719051092869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Learned the basics of XML Injection">
+      <option name="closed" value="true" />
+      <created>1719051635446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719051635446</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
