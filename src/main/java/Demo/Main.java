@@ -11,9 +11,15 @@ public class Main {
 
         ApplicationContext context = new AnnotationConfigApplicationContext(BeanCofig.class);
 
-        Doctor staff1 = context.getBean(Doctor.class);
-        staff1.assist();
-        Staff staff2 = (Nurse) context.getBean("nurse");
-        staff2.assist();
+        Doctor doctor = context.getBean(Doctor.class);
+        doctor.assist();
+        doctor.setQualification("MBBS");
+        System.out.println(doctor);
+
+        Doctor doctor1 = context.getBean(Doctor.class);
+        System.out.println(doctor1);
+
+        Staff staff = (Nurse) context.getBean("nurse");
+        staff.assist();
     }
 }

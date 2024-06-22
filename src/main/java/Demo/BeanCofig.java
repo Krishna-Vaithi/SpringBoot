@@ -7,9 +7,4 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ComponentScan(basePackages = "Demo")
 public class BeanCofig {
-
-    @Bean
-    public Doctor doctor(){
-        return new Doctor();
-    }
 }

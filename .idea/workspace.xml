@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d974b2da-0d8b-4392-a635-bc9474af49bf" name="Changes" comment="Learned the basics of XML Injection">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo/BeanCofig.java" afterDir="false" />
+    <list default="true" id="d974b2da-0d8b-4392-a635-bc9474af49bf" name="Changes" comment="Learned the basics of Annotaion based Injection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Nurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Nurse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Demo/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Doctor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Demo/Nurse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Nurse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,7 @@
       <workItem from="1719048457663" duration="1223000" />
       <workItem from="1719049712993" duration="875000" />
       <workItem from="1719050611234" duration="181000" />
-      <workItem from="1719050805229" duration="2220000" />
+      <workItem from="1719050805229" duration="3693000" />
     </task>
     <task id="LOCAL-00001" summary="Learned the basics of XML Injection">
       <option name="closed" value="true" />
@@ -119,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719051635446</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Learned the basics of Annotaion based Injection">
+      <option name="closed" value="true" />
+      <created>1719053167544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719053167544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +132,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Learned the basics of XML Injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned the basics of XML Injection" />
+    <MESSAGE value="Learned the basics of Annotaion based Injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned the basics of Annotaion based Injection" />
   </component>
 </project>
