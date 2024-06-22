@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d974b2da-0d8b-4392-a635-bc9474af49bf" name="Changes" comment="Learned the basics of Annotaion based Injection">
+    <list default="true" id="d974b2da-0d8b-4392-a635-bc9474af49bf" name="Changes" comment="Learned the basics of Bean Scope">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Demo/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Doctor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Demo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <workItem from="1719048457663" duration="1223000" />
       <workItem from="1719049712993" duration="875000" />
       <workItem from="1719050611234" duration="181000" />
-      <workItem from="1719050805229" duration="3693000" />
+      <workItem from="1719050805229" duration="4701000" />
     </task>
     <task id="LOCAL-00001" summary="Learned the basics of XML Injection">
       <option name="closed" value="true" />
@@ -121,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719053167544</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Learned the basics of Bean Scope">
+      <option name="closed" value="true" />
+      <created>1719055136345</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055136345</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +143,7 @@
     </ignored-roots>
     <MESSAGE value="Learned the basics of XML Injection" />
     <MESSAGE value="Learned the basics of Annotaion based Injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned the basics of Annotaion based Injection" />
+    <MESSAGE value="Learned the basics of Bean Scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned the basics of Bean Scope" />
   </component>
 </project>
